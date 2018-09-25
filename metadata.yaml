@@ -1,0 +1,24 @@
+_repo: Cassell-s-Book-of-Birds-Vol-II-of-4-From-the-Text-of-Dr-Brehm_57450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brehm, Alfred Edmund
+    alias: Brehm, A. E. (Alfred Edmund)
+    birthdate: 1829
+    deathdate: 1884
+    gutenberg_agent_id: '6874'
+    url: http://www.gutenberg.org/2009/agents/6874
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Brehm
+description: ''
+gutenberg_issued: '2018-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "Cassell's Book of Birds, Vol. II (of 4)\r\nFrom the Text of Dr Brehm"
+url: http://www.gutenberg.org/ebooks/57450
